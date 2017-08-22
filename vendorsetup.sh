@@ -15,5 +15,6 @@
 #
 
 add_lunch_combo aokp_zerofltecan-userdebug
+add_lunch_combo aosp_zerofltecan-userdebug
 add_lunch_combo lineage_zerofltecan-userdebug
 add_lunch_combo omni_zerofltecan-userdebug
