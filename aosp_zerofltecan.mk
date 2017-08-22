@@ -19,3 +19,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 PRODUCT_NAME := aosp_zerofltecan
 PRODUCT_DEVICE := zerofltecan
+
+# Unified Power-HAL support
+DEVICE_TREE_IS_AOSP := true
