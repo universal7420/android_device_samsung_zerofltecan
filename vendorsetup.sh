@@ -21,3 +21,4 @@ add_lunch_combo lineage_zerofltecan-userdebug
 add_lunch_combo nexus_zerofltecan-userdebug
 add_lunch_combo omni_zerofltecan-userdebug
 add_lunch_combo rr_zerofltecan-userdebug
+add_lunch_combo dot_zerofltecan-userdebug
