@@ -14,12 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo aokp_zerofltecan-userdebug
-add_lunch_combo aosp_zerofltecan-userdebug
-add_lunch_combo gzosp_zerofltecan-userdebug
 add_lunch_combo lineage_zerofltecan-userdebug
-add_lunch_combo nexus_zerofltecan-userdebug
-add_lunch_combo omni_zerofltecan-userdebug
-add_lunch_combo rr_zerofltecan-userdebug
-add_lunch_combo dot_zerofltecan-userdebug
-add_lunch_combo du_zerofltecan-userdebug
