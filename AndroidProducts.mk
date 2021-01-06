@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_zerofltecan.mk
+    $(LOCAL_DIR)/rr_zerofltecan.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_zerofltecan-user \
-    lineage_zerofltecan-userdebug \
-    lineage_zerofltecan-eng
+    rr_zerofltecan-user \
+    rr_zerofltecan-userdebug \
+    rr_zerofltecan-eng
